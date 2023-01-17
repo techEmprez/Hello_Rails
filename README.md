@@ -4,7 +4,7 @@
 
 # Hello_Rails
 
-> This project is basically teaching about ruby on rails usage and installation.
+> This project is basically teaching about ruby on rails first usage and installation process.
 
 ## Built With
 
