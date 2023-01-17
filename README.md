@@ -14,12 +14,12 @@
 
 To get a local copy up and running follow these simple example steps.
 
-```
+
  ## Built with
 
 - ![](https://img.shields.io/badge/Github-blueviolet)
 - ![](https://img.shields.io/badge/Ruby-red)
-```
+
 
 ### Setup
 
